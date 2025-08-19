@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Carlos Coronado
+# Carlos Coronado
 
-🚀 Software Engineer | Data Analyst | Data Engineer
+**Software Engineer | Data Analyst | Data Engineer**
 
 ## 🔹 About Me
 I’m a **Software Engineer (graduated with honors)** with strong critical thinking and problem-solving skills.  
-Over the past **2+ years**, I’ve built and maintained **data pipelines, dashboards, and APIs** that empower business decision-making.  
-
-Currently, I work as a **Data Analyst at AB-Inbev (through Bamboo Tec)**, where I lead projects focused on:
+Over the past **2+ years**, working as a Data Analyst for AB-Inbev I’ve built and maintained **data pipelines, dashboards, and APIs** that empower business decision-making. I've lead projects focused on:
 - 📊 Designing and optimizing **KPIs & Dashboards** for 80+ production plants across South America.  
 - ⚙️ Building **ETL pipelines & Data Warehouses** to ensure high data quality.  
 - 🎨 Applying **UI/UX fundamentals** for impactful visualizations and stakeholder alignment.  
