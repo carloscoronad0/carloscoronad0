@@ -53,9 +53,9 @@ Previously, I developed **REST APIs, CI/CD pipelines, and data solutions** using
 Agile (SCRUM, Shape Up)  
 
 ## 🔬 Projects
-- 🧠 [Smart Monopoly](https://github.com/carloscoronad0/Smart_Monopoly): A Monopoly agent built with **C# and Reinforcement Learning**.  
-- 🤖 [Smart Evolutionary Agent](https://github.com/carloscoronad0/SmartEvolutionaryMonopolyAgent): A **Deep Learning** project using **PyTorch** to train a Monopoly agent.  
-- 📈 [USDT Analyzer](https://github.com/carloscoronad0/usdt_analyzer): A **crypto data analysis** tool.  
+- 📈 [Dollar Pricing Analysis](https://github.com/carloscoronad0/dollar_pricing_analysis): Analysis over the News influence in the parallel pricing of the dollar in Bolivia.
+- 🚚 [Logistics Analysis](https://github.com/carloscoronad0/log_delivery_analysis): Synthetic Data generation, ETL implementation and Analysis for a Logistics Business Case to identify optimizations over delivery time and driver performance.
+- 🤖 [Smart Evolutionary Agent](https://github.com/carloscoronad0/SmartEvolutionaryMonopolyAgent): A **Deep Learning** project using **PyTorch** to train a Monopoly agent.
 
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/ca-coronado/)  
